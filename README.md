@@ -98,23 +98,3 @@ Education
 </tbody>
 </table>
 
-Personal Info:
-
-Name : Thirumal
-
-Gender : Male
-
-Dob : 05/05/1991
-
-Permanent Address : Thirumal,
-
-Genginayakkampatti, Angampatti (PO),
-
-Pochampalli – 635206, Krishnagiri,
-
-Declaration:
-
-I hereby declare that the information provided above is true and correct
-to the best of my knowledge and belief.
-
-
